@@ -1,0 +1,298 @@
+/* eplano-style-inline-css */
+body {
+    overflow-x: hidden;
+}
+.csi-header .csi-navbar .csi-logo a img {
+    width: 190px
+}
+
+.csi-banner-wrapper {
+    background: url(../assets/img/inner-banner-bg.jpg)center bottom / cover no-repeat
+}
+
+#vcx-preloader {
+    background: url(http://httpcoder.com/demo/wordpress/eplano/wp-content/themes/eplano/assets/img/pre-loader.svg) no-repeat #FFF 50%;
+    -moz-background-size: 150px 150px;
+    -o-background-size: 150px 150px;
+    -webkit-background-size: 150px 150px;
+    background-size: 150px 150px
+}
+
+.csi-single-news figure figcaption {
+    bottom: 0;
+    right: 0;
+    top: unset
+}
+
+.csi-single-news figure figcaption .date {
+    width: auto;
+    height: auto
+}
+
+/* .csi-footer {
+    background: url(http://httpcoder.com/demo/wordpress/eplano/wp-content/themes/eplano/assets/img/footer-bg.jpg) bottom center no-repeat
+} */
+
+/* wp custom css */
+
+.csi-single-news figure figcaption {
+    bottom: 0;
+    right: 0;
+    top: unset;
+}
+
+.csi-single-news figure figcaption .date {
+    width: auto;
+    height: auto;
+}
+
+/* dynamic css */
+
+body {
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: normal;
+    color: #272338;
+    font-size: 1.6rem;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out
+}
+
+.wf-loading body,
+    {
+    opacity: 0;
+}
+
+.ie.wf-loading body,
+    {
+    visibility: hidden;
+}
+
+h1 {
+    font-family: Oswald;
+    font-weight: 700;
+    font-style: normal;
+    color: #272338;
+    font-size: 6.8rem;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out
+}
+
+.wf-loading h1,
+    {
+    opacity: 0;
+}
+
+.ie.wf-loading h1,
+    {
+    visibility: hidden;
+}
+
+h2 {
+    font-family: Oswald;
+    font-weight: 500;
+    font-style: normal;
+    color: #272338;
+    font-size: 4.2rem;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading h2,
+    {
+    opacity: 0;
+}
+
+.ie.wf-loading h2,
+    {
+    visibility: hidden;
+}
+
+h3 {
+    font-family: Oswald;
+    font-weight: 700;
+    font-style: normal;
+    color: #272338;
+    font-size: 2.6rem;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out;
+}
+
+.wf-loading h3,
+    {
+    opacity: 0;
+}
+
+.ie.wf-loading h3,
+    {
+    visibility: hidden
+}
+
+h4 {
+    font-family: Oswald;
+    font-weight: 700;
+    font-style: normal;
+    color: #272338;
+    font-size: 2rem;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out
+}
+
+.wf-loading h4,
+    {
+    opacity: 0;
+}
+
+.ie.wf-loading h4,
+    {
+    visibility: hidden;
+}
+
+h5 {
+    font-family: Oswald;
+    font-weight: 700;
+    font-style: normal;
+    color: #272338;
+    font-size: 1.8rem;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out
+}
+
+.wf-loading h5,
+    {
+    opacity: 0;
+}
+
+.ie.wf-loading h5,
+    {
+    visibility: hidden;
+}
+
+h5 {
+    font-family: Oswald;
+    font-weight: 700;
+    font-style: normal;
+    color: #272338;
+    font-size: 1.6rem;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: opacity 0.24s ease-in-out;
+    -moz-transition: opacity 0.24s ease-in-out;
+    transition: opacity 0.24s ease-in-out
+}
+
+.wf-loading h5,
+    {
+    opacity: 0;
+}
+
+.ie.wf-loading h5,
+    {
+    visibility: hidden;
+}
+
+.vc_custom_1524248457278 {
+    /* background-image: url(http://httpcoder.com/demo/wordpress/eplano/wp-content/uploads/2018/04/bannr-d.jpg?id=1594) !important;
+    background-position: center;
+    background-repeat: no-repeat !important;
+    background-size: cover !important */
+    background: #272338;
+}
+
+.vc_custom_1524032960128 {
+    background-image: url(http://httpcoder.com/demo/wordpress/eplano/wp-content/uploads/2018/04/map-bg.png?id=724) !important
+}
+
+.vc_custom_1524676653885 {
+    background-color: #272338 !important;
+    background-position: center;
+    background-repeat: no-repeat !important;
+    background-size: cover !important
+}
+
+.vc_custom_1523422098474 {
+    background-color: #f9f9f9 !important;
+}
+
+.vc_custom_1524718380820 {
+    background: #f1f1f1 url(http://httpcoder.com/demo/wordpress/eplano/wp-content/uploads/2018/04/about-bg3.jpg?id=705);
+}
+
+.vc_custom_1524678164880 {
+    background-image: url(http://httpcoder.com/demo/wordpress/eplano/wp-content/uploads/2018/04/schedule-bg.jpg?id=722) !important
+}
+
+.vc_custom_1524248534914 {
+    background: #f9f9f9 url(http://httpcoder.com/demo/wordpress/eplano/wp-content/uploads/2018/04/pattern.png?id=955)
+}
+
+.vc_custom_1524718530282 {
+     /* background-image: url(http://httpcoder.com/demo/wordpress/eplano/wp-content/uploads/2018/04/bannr-d.jpg?id=1594) !important;
+    background-position: center;
+    background-repeat: no-repeat !important;
+    background-size: cover !important */
+    background: #272338;
+}
+
+.vc_custom_1524718563512 {
+    background-image: url(http://httpcoder.com/demo/wordpress/eplano/wp-content/uploads/2018/04/banner5.jpg?id=1862) !important;
+}
+
+.vc_custom_1524194946073 {
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+    background-image: url(http://httpcoder.com/demo/wordpress/eplano/wp-content/uploads/2018/04/patt-banner.png?id=1544) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.vc_custom_1521377133144 {
+    padding-top: 4.2rem !important;
+    padding-bottom: 2.6rem !important;
+}
+
+.vc_custom_1524194818353 {
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+}
+
+.vc_custom_1524113978726 {
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.vc_custom_1525682726446 {
+    margin-top: -35px !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.vc_custom_1523945363674 {
+    padding-top: 10rem !important;
+    padding-bottom: 10rem !important;
+    background-image: url(http://httpcoder.com/demo/wordpress/eplano/wp-content/uploads/2018/04/bannr11-1.jpg?id=1624) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important
+}

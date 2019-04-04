@@ -1,0 +1,15 @@
+{
+    "name": "murphydownpour/turizm",
+    "description": "Turism Forum",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zaur Akhmedov",
+            "email": "zaur.akhmedov9595@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.1"
+    }
+}
